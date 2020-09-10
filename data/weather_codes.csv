@@ -1,0 +1,195 @@
+﻿weather_code,weather_type
+DZ:01, Drizzle
+RA:02, Rain
+SN:03, Snow
+SG:04, Snow Grains
+IC:05, Ice Crystals
+PL:06, Ice Pellets
+GR:07, Hail
+GS:08, Small Hail an/or Snow Pellets
+UP:09, Unknown Precipitation
+BR:1, Mist
+FG:2, Fog
+FU:3, Smoke
+VA:4, Volcanic Ash
+DU:5, Widespread Dust
+SA:6, Sand
+HZ:7, Haze
+PY:8, Spray
+PO:1, Well developed dust/sand whirls
+SQ:2, Squalls
+FC:3," Funnel CLoud, Waterspout or Tornado"
+SS:4, Sandstorm
+DS:5, Duststorm
+HZ:04," Haze, smoke, or dust in suspension in the air, visibility equal to or greater than 1km"
+FU:05, Smoke
+DU:07," Dust or sand raised by wind at or near the station at the time of observation, but no well‑developed dust whirl(s) or sand whirl(s), and no duststorm or sandstorm seen or, in the case of ships, blowing spray at the station"
+BR:10, Mist
+11, Diamond dust
+12, Distant lightning
+SQ:18, Squalls
+20, Fog (during preceding hour but not at time of observation)
+21, Precipitation (during preceding hour but not at time of observation)
+22, Drizzle (not freezing) or snow grains (during preceding hour but not at time of observation)
+23, Rain (not freezing) (during preceding hour but not at time of observation)
+24, Snow (during preceding hour but not at time of observation)
+25, Freezing drizzle or freezing rain (during preceding hour but not at time of observation)
+26, Thunderstorm (with or without precipitation) (during preceding hour but not at time of observation)(during preceding hour but not at time of observation)
+27, Blowing or drifting snow or sand (during preceding hour but not at time of observation)
+28," Blowing or drifting snow or sand, visibility equal to or greater than 1 km (during preceding hour but not at time of observation)"
+29," Blowing or drifting snow or sand, visibility less than 1 km (during preceding hour but not at time of observation)"
+FG:30, Fog
+FG:31, Fog or ice fog in patches
+FG:32," Fog or ice fog, has become thinner during the past hour"
+FG:33," Fog or ice fog, no appreciable change during the past hour"
+FG:34," Fog or ice fog, has begun or become thicker during the past hour"
+FG:35," Fog, depositing rime"
+40, Precipitation
+41," Precipitation, slight or moderate"
+42," Precipitation, heavy"
+43," Liquid precipitation, slight or moderate"
+44," Liquid precipitation, heavy"
+45," Solid precipitation, slight or moderate"
+46," Solid precipitation, heavy"
+47," Freezing precipitation, slight or moderate"
+48," Freezing precipitation, heavy"
+DZ:50, Drizzle
+DZ:51," Drizzle, not freezing, slight"
+DZ:52," Drizzle, not freezing, moderate"
+DZ:53," Drizzle, not freezing, heavy"
+FZDZ:54," Drizzle, freezing, slight"
+FZDZ:55," Drizzle, freezing, moderate"
+FZDZ:56," Drizzle, freezing, heavy"
+DZ:57," Drizzle and rain, slight"
+DZ:58," Drizzle and rain, moderate or heavy"
+RA:60, Rain
+RA:61," Rain, not freezing, slight"
+RA:62," Rain, not freezing, moderate"
+RA:63," Rain, not freezing, heavy"
+FZRA:64," Rain, freezing, slight"
+FZRA:65," Rain, freezing, moderate"
+FZRA:66," Rain, freezing, heavy"
+RA:67," Rain or drizzle and snow, slight"
+RA:68," Rain or drizzle and snow, moderate or heavy"
+SN:70, Snow
+SN:71," Snow, slight"
+SN:72," Snow, moderate"
+SN:73," Snow, heavy"
+PL:74," Ice pellets, slight"
+PL:75," Ice pellets, moderate"
+PL:76," Ice pellets, heavy"
+SG:77, Snow grains
+IC:78, Ice crystals
+80, Showers or intermittent precipitation
+SHRA:81," Rain showers or intermittent rain, slight"
+SHRA:82," Rain showers or intermittent rain, moderate"
+SHRA:83," Rain showers or intermittent rain, heavy"
+SHRA:84," Rain showers or intermittent rain, violent"
+SHSN:85," Snow showers or intermittent snow, slight"
+SHSN:86," Snow showers or intermittent snow, moderate"
+SHSN:87," Snow showers or intermittent snow, heavy"
+HAIL:89, Hail
+TS:90, Thunderstorm
+TS:91," Thunderstorm, slight or moderate, with no precipitation"
+TS:92," Thunderstorm, slight or moderate, with rain showers and/or snow showers"
+TS HAIL:93," Thunderstorm, slight or moderate, with hail"
+TS:94," Thunderstorm, heavy, with no precipitation"
+TS:95," Thunderstorm, heavy, with rain showers and/or snow"
+TS+HAIL:96," Thunderstorm, heavy, with hail"
++FC:99, Tornado
+FU:04," Visibility reduced by smoke, e.g. veldt or forest fires, industrial smoke or volcanic ashes"
+HZ:05, Haze
+DU:06," Widespread dust in suspension in the air, not raised by wind at or near the station at the time of observation"
+DU:07," Dust or sand raised by wind at or near the station at the time of observation, but no well‑developed dust whirl(s) or sand whirl(s), and no duststorm or sandstorm seen or, in the case of ships, blowing spray at the station"
+DU:08," Well developed dust whirl(s) or sand whirl(s) seen at or near the station during the preceding hour or at the time of observation, but no duststorm or sandstorm"
+DU:09," Duststorm or sandstorm within sight at the time of observation, or at the station during the preceding hour"
+BR:10, Mist
+FG:11," Patches of shallow fog or ice fog at the station, whether on land or sea, not deeper than about 2 meters on land or 10 meters at sea"
+FG:12," More or less continuous shallow fog or ice fog at the station, whether on land or sea, not deeper than about 2 meters on land or 10 meters at sea"
+13," Lightning visible, no thunder heard"
+14," Precipitation within sight, not reaching the ground or the surface of the sea"
+15," Precipitation within sight, reaching the ground or the surface of the sea, but distant, i.e., estimated to be more than 5 km from the station"
+16," Precipitation within sight, reaching the ground or the surface of the sea, near to, but not at the station"
+TS:17," Thunderstorm, but no precipitation at the time of observation"
+SQ:18, Squalls at or within sight of the station during the preceding hour or at the time of observation
+FC:19, Funnel cloud(s) (Tornado cloud or waterspout) at or within sight of the station during the preceding hour or at the time of observation
+20, Drizzle (not freezing) or snow grains not falling as shower(s) (during the preceding hour but not at the time of observation)
+21, Rain (not freezing) not falling as shower(s) (during the preceding hour but not at the time of observation))
+22, Snow not falling as shower(s) (during the preceding hour but not at the time of observation)
+23, Rain and snow or ice pellets not falling as shower(s) (during the preceding hour but not at the time of observation)
+24, Freezing drizzle or freezing rain not falling as shower(s) (during the preceding hour but not at the time of observation)
+25, Shower(s) of rain (during the preceding hour but not at the time of observation)
+26, Shower(s) of snow or of rain and snow (during the preceding hour but not at the time of observation)
+27," Shower(s) of hail (Hail, small hail, snow pellets), or rain and hail (during the preceding hour but not at the time of observation)"
+28, Fog or ice fog (during the preceding hour but not at the time of observation)
+29, Thunderstorm (with or without precipitation) (during the preceding hour but not at the time of observation)
+DU:30, Slight or moderate duststorm or sandstorm has decreased during the preceding hour
+DU:31, Slight or moderate duststorm or sandstorm no appreciable change during the preceding hour
+DU:32, Slight or moderate duststorm or sandstorm has begun or has increased during the preceding hour
+DU:33, Severe duststorm or sandstorm has decreased during the preceding hour
+DU:34, Severe duststorm or sandstorm no appreciable change during the preceding hour
+DU:35, Severe duststorm or sandstorm has begun or has increased during the preceding hour
+DRSN:36, Slight or moderate drifting snow generally low (below eye level)
+DRSN:37, Heavy drifting snow generally low (below eye level)
+BLSN:38, Slight or moderate blowing snow generally high (above eye level)
+BLSN:39, Heavy blowing snow generally high (above eye level)
+FG:40," Fog or ice fog at a distance at the time of observation, but not at the station during the preceding hour, the fog or ice fog extending to a level above that of the observer"
+FG:41, Fog or ice fog in patches
+FG:42," Fog or ice fog, sky visible, has become thinner during the preceding hour"
+FG:43," Fog or ice fog, sky invisible, has become thinner during the preceding hour"
+FG:44," Fog or ice fog, sky visible, no appreciable change during the preceding hour"
+FG:45," Fog or ice fog, sky invisible, no appreciable change during the preceding hour"
+FG:46," Fog or ice fog, sky visible, has begun or has become thicker during the preceding hour"
+FG:47," Fog or ice fog, sky invisible, has begun or has become thicker during the preceding hour"
+FG:48," Fog, depositing rime, sky visible"
+FG:49," Fog, depositing rime, sky invisible"
+DZ:50," Drizzle, not freezing, intermittent, slight at time of observation"
+DZ:51," Drizzle, not freezing, continuous, slight at time of observation"
+DZ:52," Drizzle, not freezing, intermittent, moderate at time of observation"
+DZ:53," Drizzle, not freezing, continuous, moderate at time of observation"
+DZ:54," Drizzle, not freezing, intermittent, heavy (dense) at time of observation"
+DZ:55," Drizzle, not freezing, continuous, heavy (dense) at time of observation"
+FZDZ:56," Drizzle, freezing, slight"
+FZDZ:57," Drizzle, freezing, moderate or heavy (dense)"
+DZ:58," Drizzle and rain, slight"
+DZ:59," Drizzle and rain, moderate or heavy"
+RA:60," Rain, not freezing, intermittent, slight at time of observation"
+RA:61," Rain, not freezing, continuous, slight at time of observation"
+RA:62," Rain, not freezing, intermittent, moderate at time of observation"
+RA:63," Rain, not freezing, continuous, moderate at time of observation"
+RA:64," Rain, not freezing, intermittent, heavy at time of observation"
+RA:65," Rain, not freezing, continuous, heavy at time of observation"
+FZRA:66," Rain, freezing, slight"
+FZRA:67," Rain, freezing, moderate or heavy"
+RA:68," Rain or drizzle and snow, slight"
+RA:69," Rain or drizzle and snow, moderate or heavy"
+SN:70," Intermittent fall of snowflakes, slight at time of observation"
+SN:71," Continuous fall of snowflakes, slight at time of observation"
+SN:72," Intermittent fall of snowflakes, moderate at time of observation"
+SN:73," Continuous fall of snowflakes, moderate at time of observation"
+SN:74," Intermittent fall of snowflakes, heavy at time of observation"
+SN:75," Continuous fall of snowflakes, heavy at time of observation"
+76, Diamond dust (with or without fog)
+SG:77, Snow grains (with or without fog)
+SN:78, Isolated star like snow crystals (with or without fog)
+PL:79, Ice pellets
+SHRA:80," Rain shower(s), slight"
+SHRA:81," Rain shower(s), moderate or heavy"
+SHRA:82," Rain shower(s), violent"
+SHRASN:83," Shower(s) of rain and snow mixed, slight"
+SHRASN:84," Shower(s) of rain and snow mixed, moderate or heavy"
+SHSN:85," Show shower(s), slight"
+SHSN:86," Snow shower(s), moderate or heavy"
+SH:87," Shower(s) of snow pellets or small hail, with or without rain or rain and snow mixed, slight"
+SH:88," Shower(s) of snow pellets or small hail, with or without rain or rain and snow mixed, moderate or heavy"
+SH:89," Shower(s) of hail (hail, small hail, snow pellets), with or without rain or rain and snow mixed, not associated with thunder, slight"
+SH:90," Shower(s) of hail (hail, small hail, snow pellets), with or without rain or rain and snow mixed, not associated with thunder, moderate or heavy"
+RA:91," Slight rain at time of observation, thunderstorm during the preceding hour but not at time of observation"
+RA:92," Moderate or heavy rain at time of observation, thunderstorm during the preceding hour but not at time of observation"
+93," Slight snow, or rain and snow mixed or hail (Hail, small hail, snow pellets), at time of observation, thunderstorm during the preceding hour but not at time of observation"
+94," Moderate or heavy snow, or rain and snow mixed or hail(Hail, small hail, snow pellets) at time of observation, thunderstorm during the preceding hour but not at time of observation"
+TS:95," Thunderstorm, slight or moderate, without hail (Hail, small hail, snow pellets), but with rain and/or snow at time of observation, thunderstorm at time of observation"
+TS:96," Thunderstorm, slight or moderate, with hail (hail, small hail, snow pellets) at time of observation, thunderstorm at time of observation"
+TS:97," Thunderstorm, heavy, without hail (Hail, small hail, snow pellets), but with rain and/or snow at time of observation, thunderstorm at time of observation"
+TS:98," Thunderstorm combined with duststorm or sandstorm at time of observation, thunderstorm at time of observation"
+TS:99," Thunderstorm, heavy, with hail (Hail, small hail, snow pellets) at time of observation, thunderstorm at time of observation"
